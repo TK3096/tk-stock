@@ -1,0 +1,3 @@
+[submodule "tk-stock-client"]
+	path = tk-stock-client
+	url = git@github.com-TK3096:TK3096/tk-stock-client.git
